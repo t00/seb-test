@@ -1,3 +1,3 @@
-[`Configure`](sebs://github.com/t00/seb-test/raw/refs/heads/main/Configure.seb)
-[`Start Exam`](sebs://github.com/t00/seb-test/raw/refs/heads/main/StartExam.seb)
+[`Page`](https://t00.github.io/seb-test/)
+
 Password is "start", end password is "end"
